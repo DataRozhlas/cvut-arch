@@ -12,6 +12,8 @@ Přednáška o designu na Katedře architektury FSv ČVUT v Praze 20. 11. 2019.
 [komplexní mapa](https://www.irozhlas.cz/zpravy-domov/mapa-okrsky-volby-evropsky-parlament_1905270640_cib)  
 [objevování](https://www.irozhlas.cz/zpravy-domov/data-kalkulacka-tropicke-dny-horko-meteorologove-aplikace_1907310630_cib)  
 
+[moc velký dashboard](https://www.irozhlas.cz/zpravy-domov/data-datova-zurnalistika-vezeni-tresty-statistika_1910150600_cib)  
+
 [kvíz](https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo)  
 
 [Kůrovec a sucho na satelitních snímcích. Podívejte se, jak to vypadá u vaší obce](https://www.irozhlas.cz/veda-technologie/priroda/kurovec-satelit-snimky_1907290700_cib)  
