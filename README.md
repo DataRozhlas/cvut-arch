@@ -39,5 +39,5 @@ Přednáška o designu na Katedře architektury FSv ČVUT v Praze 20. 11. 2019.
 [Tufte, The Visual Display of Quantitative Information](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information)  
 
 ## Vyhněte se pirátským serverům!
-[Library Genesis (odborné knihy)](http://gen.lib.rus.ec/)
+[Library Genesis (odborné knihy)](http://gen.lib.rus.ec/)  
 [SciHub (papery)](https://sci-hub.tw/)
