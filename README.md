@@ -5,21 +5,20 @@ Přednáška o designu na Katedře architektury FSv ČVUT v Praze 20. 11. 2019.
 
 ## Příklady
 [Highcharts orgie](https://www.irozhlas.cz/zpravy-domov/cesko-populace-bezdetnost-deti-vysoka-skola-socialismus_1903120600_jab)  
-[Skauti ve světě: téměř polovina pochází z muslimských zemí. V Indonésii je členství fakticky povinné](https://www.irozhlas.cz/zpravy-svet/skautske-hnuti-junak-jamboree-data-datova-zurnalistika_1907230631_zlo) 
+[Skauti ve světě: téměř polovina pochází z muslimských zemí. V Indonésii je členství fakticky povinné](https://www.irozhlas.cz/zpravy-svet/skautske-hnuti-junak-jamboree-data-datova-zurnalistika_1907230631_zlo)   
 [Moc velký dashboard](https://www.irozhlas.cz/zpravy-domov/data-datova-zurnalistika-vezeni-tresty-statistika_1910150600_cib)  
-[Kvíz](https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo)  
-[Kůrovec a sucho na satelitních snímcích. Podívejte se, jak to vypadá u vaší obce](https://www.irozhlas.cz/veda-technologie/priroda/kurovec-satelit-snimky_1907290700_cib)  
-[Karel Gott, zpěvák milostných písní. Nejčastější slova v jeho textech jsou já, ty a láska](https://www.irozhlas.cz/kultura/hudba/karel-gott-datari-pisne-nejcastejsi-slova-laska_1907140631_zlo)  
-[Smetanova Litomyšl, Mariánské Lázně Jaromíra Soukupa. Mapa Česka ukazuje nejhledanější rodáky](https://www.irozhlas.cz/zpravy-domov/data-datova-zurnalistika-rodaci-interaktivni-mapa_1906170650_zlo)  
+[Samoúčelný kvíz](https://www.irozhlas.cz/zpravy-domov/data-kalkulacka-tropicke-dny-horko-meteorologove-aplikace_1907310630_cib)  
+[Smysluplný kvíz](https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo)  
+
+[Zjevné věci zajímavě](https://www.irozhlas.cz/zpravy-domov/data-datova-zurnalistika-rodaci-interaktivni-mapa_1906170650_zlo)  
+[Zjevné nezajímavě](https://www.irozhlas.cz/kultura/hudba/karel-gott-datari-pisne-nejcastejsi-slova-laska_1907140631_zlo)  
 
 [Deník Data](https://data.denik.cz/data/)
 
-### Mapy
-[Čistá mapa](https://www.irozhlas.cz/zpravy-domov/stavby-mapa-obce-urbanismus-gebrian_1902140614_zlo)
-[komplexní mapa](https://www.irozhlas.cz/zpravy-domov/mapa-okrsky-volby-evropsky-parlament_1905270640_cib)  
-[objevování](https://www.irozhlas.cz/zpravy-domov/data-kalkulacka-tropicke-dny-horko-meteorologove-aplikace_1907310630_cib)  
-
 ## Mapy a projekce
+[Čistá mapa](https://www.irozhlas.cz/zpravy-domov/stavby-mapa-obce-urbanismus-gebrian_1902140614_zlo)  
+[Komplexní mapa](https://www.irozhlas.cz/zpravy-domov/mapa-okrsky-volby-evropsky-parlament_1905270640_cib)  
+
 [WGS 84](http://multimedia.ctk.cz/grafika/document/17005620/3)  
 [Webmercator](https://en.mapy.cz/s/2fNeA)  
 [Křovák](https://geoportal.cuzk.cz/geoprohlizec/)  
