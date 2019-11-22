@@ -5,7 +5,6 @@ Přednáška o designu na Katedře architektury FSv ČVUT v Praze 20. 11. 2019.
 
 ## Příklady
 [Highcharts orgie](https://www.irozhlas.cz/zpravy-domov/cesko-populace-bezdetnost-deti-vysoka-skola-socialismus_1903120600_jab)  
-[Skauti ve světě: téměř polovina pochází z muslimských zemí. V Indonésii je členství fakticky povinné](https://www.irozhlas.cz/zpravy-svet/skautske-hnuti-junak-jamboree-data-datova-zurnalistika_1907230631_zlo)   
 [Moc velký dashboard](https://www.irozhlas.cz/zpravy-domov/data-datova-zurnalistika-vezeni-tresty-statistika_1910150600_cib)  
 [Samoúčelný kvíz](https://www.irozhlas.cz/zpravy-domov/data-kalkulacka-tropicke-dny-horko-meteorologove-aplikace_1907310630_cib)  
 [Smysluplný kvíz](https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo)  
@@ -16,6 +15,7 @@ Přednáška o designu na Katedře architektury FSv ČVUT v Praze 20. 11. 2019.
 [Deník Data](https://data.denik.cz/data/)
 
 ## Mapy a projekce
+[Nečitelná mapa](https://www.irozhlas.cz/zpravy-svet/skautske-hnuti-junak-jamboree-data-datova-zurnalistika_1907230631_zlo)   
 [Čistá mapa](https://www.irozhlas.cz/zpravy-domov/stavby-mapa-obce-urbanismus-gebrian_1902140614_zlo)  
 [Komplexní mapa](https://www.irozhlas.cz/zpravy-domov/mapa-okrsky-volby-evropsky-parlament_1905270640_cib)  
 
